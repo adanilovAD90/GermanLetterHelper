@@ -1,0 +1,11 @@
+{
+    "name": "German keyboard helper",
+    "version": "1.0.0",
+    "description": "Copy button for some german letters",
+    "manifest_version": 3,
+    "author": "Anton Danilov",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Letter Helper"
+    }
+}
